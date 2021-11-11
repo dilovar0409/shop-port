@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shop-port/static/css/main.0619d4ca.chunk.css",
+    "main.js": "/shop-port/static/js/main.ade90af6.chunk.js",
+    "main.js.map": "/shop-port/static/js/main.ade90af6.chunk.js.map",
+    "runtime-main.js": "/shop-port/static/js/runtime-main.9829ea0c.js",
+    "runtime-main.js.map": "/shop-port/static/js/runtime-main.9829ea0c.js.map",
+    "static/js/2.6628d258.chunk.js": "/shop-port/static/js/2.6628d258.chunk.js",
+    "static/js/2.6628d258.chunk.js.map": "/shop-port/static/js/2.6628d258.chunk.js.map",
+    "static/js/3.d2c25c77.chunk.js": "/shop-port/static/js/3.d2c25c77.chunk.js",
+    "static/js/3.d2c25c77.chunk.js.map": "/shop-port/static/js/3.d2c25c77.chunk.js.map",
+    "index.html": "/shop-port/index.html",
+    "static/css/main.0619d4ca.chunk.css.map": "/shop-port/static/css/main.0619d4ca.chunk.css.map",
+    "static/js/2.6628d258.chunk.js.LICENSE.txt": "/shop-port/static/js/2.6628d258.chunk.js.LICENSE.txt",
+    "static/media/happyGirl.41660717.png": "/shop-port/static/media/happyGirl.41660717.png",
+    "static/media/happyGirl1.66c90848.png": "/shop-port/static/media/happyGirl1.66c90848.png",
+    "static/media/happyGirl2.695d500d.png": "/shop-port/static/media/happyGirl2.695d500d.png",
+    "static/media/happyGirl3.b964cf68.png": "/shop-port/static/media/happyGirl3.b964cf68.png",
+    "static/media/happyGirl4.691584b5.png": "/shop-port/static/media/happyGirl4.691584b5.png",
+    "static/media/happyGirls.8d308c96.png": "/shop-port/static/media/happyGirls.8d308c96.png",
+    "static/media/sneakers.1ce33973.png": "/shop-port/static/media/sneakers.1ce33973.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9829ea0c.js",
+    "static/js/2.6628d258.chunk.js",
+    "static/css/main.0619d4ca.chunk.css",
+    "static/js/main.ade90af6.chunk.js"
+  ]
+}
